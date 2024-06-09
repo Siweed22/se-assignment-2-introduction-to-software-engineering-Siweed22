@@ -28,8 +28,8 @@ Waterfall Model is a sequential approach where each stage must be finalized pri
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 
-Waterfall is linear and sequential, each phase must be completed before the next begins, has a clear structure and documentation and easy to manage due to its rigidity on the downside, it is difficult to accommodate changes and testing occurs late in the process. The waterfall model is suitable for projects with well-defined requirements and minimal changes expected. 
-
+Waterfall is linear and sequential, each phase must be completed before the next begins, has a clear structure and documentation and easy to manage due to its rigidity. On the downside, it is difficult to accommodate changes and testing occurs late in the process (powerlearnproject, 2024). The waterfall model is suitable for projects with well-defined requirements and minimal changes expected. 
+Agile is iterative and incremental approach, emphasizes on flexibility,collaboration and customer feedback. Quick response to change, regular customer feedback and improved team collaboration. On the downside is less predictability and requires significant customer involvmnet (powerlearnproject, 2024). Best suited for ongoing projects and projects where certain details aren't known from the outset.
 
 Requirements Engineering:
 
